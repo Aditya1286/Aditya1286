@@ -93,12 +93,11 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
 ## 📊 𝟮𝟬𝟮𝟱 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya1286&show_icons=true&count_private=true&hide_border=true&title_color=00D9F7&icon_color=00D9F7&text_color=c9d1d9&bg_color=0d1117" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1286&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00D9F7&fire=00D9F7&currStreakLabel=00D9F7" width="450"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya1286&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1286&bg_color=0d1117&color=00D9F7&line=00D9F7&point=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1286&layout=compact&theme=github_dark&hide_border=true" width="450"/>
 </div>
 
 ## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
@@ -127,7 +126,6 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
     </tr>
   </table>
 </div>
-
 ## 📂 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 <div align="center">
@@ -167,16 +165,6 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
   </a>
 </div>
 
-## 📈 𝗞𝗘𝗬 𝗠𝗘𝗧𝗥𝗜𝗖𝗦
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya1286&theme=github_dark" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1286&layout=compact&theme=github_dark&hide_border=true" width="450"/>
-</div>
-
 <details>
   <summary>⚠️ 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 𝗔𝗖𝗖𝗘𝗦𝗦</summary>
   <div align="center">
@@ -200,10 +188,4 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
   <img src="https://komarev.com/ghpvc/?username=Aditya1286&label=Profile%20Views&color=00D9F7&style=flat" alt="visitor badge"/>
 </div>
 
-<div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&text=HACK%20THE%20PLANET&fontSize=30" width="100%"/>
-</div>
