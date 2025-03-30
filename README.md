@@ -9,17 +9,19 @@
 ## 🚀 About Me
 
 🔭 I'm currently working on **Akademix**  
-🌱 Learning **[MERN & DSA]**  
-💬 Ask me about **[Backend,Coding,Critical thinking]**  
+🌱 Learning **MERN & DSA**  
+💬 Ask me about **Backend, Coding, Critical thinking**  
 📫 Reach me at: **aishwaryaaditya2@gmail.com**  
 
-<table align="center">
-  <tr>
-    <td>
-      <h2>👾 SECURITY CLEARANCE: LEVEL 5</h2>
-      <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
-      <p align="left">
-        <pre>
+## 👾 SECURITY CLEARANCE: LEVEL 5
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
+        <p align="left">
+          <pre>
 $ whoami
 > Aditya Aishwarya
 
@@ -41,17 +43,19 @@ $ uptime
 
 $ ssh -p 443 access@adityaaishwarya.vercel.app
 > Connection established...
-        </pre>
-      </p>
-    </td>
-  </tr>
-</table>
+          </pre>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 𝗧𝗘𝗖𝗛 𝗔𝗥𝗦𝗘𝗡𝗔𝗟
 
 <div align="center">
@@ -126,6 +130,7 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
     </tr>
   </table>
 </div>
+
 ## 📂 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 <div align="center">
@@ -156,7 +161,6 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
   <a href="https://leetcode.com/u/aishwaryaaditya2/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
   </a>
-  <!-- Add more social links when available -->
 </div>
 
 <div align="center">
@@ -187,5 +191,3 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya1286&label=Profile%20Views&color=00D9F7&style=flat" alt="visitor badge"/>
 </div>
-
-
