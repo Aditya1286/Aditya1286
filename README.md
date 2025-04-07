@@ -104,33 +104,6 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1286&layout=compact&theme=github_dark&hide_border=true" width="450"/>
 </div>
 
-## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/aishwaryaaditya2?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="450" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Profile:</strong></td>
-      <td><a href="https://leetcode.com/u/aishwaryaaditya2/">LeetCode Profile</a></td>
-    </tr>
-    <tr>
-      <td><strong>Problems Solved:</strong></td>
-      <td>250+</td>
-    </tr>
-    <tr>
-      <td><strong>Contest Rating:</strong></td>
-      <td>1620</td>
-    </tr>
-    <tr>
-      <td><strong>Languages:</strong></td>
-      <td>C++, Java, Python</td>
-    </tr>
-  </table>
-</div>
-
 ## 📂 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 <div align="center">
