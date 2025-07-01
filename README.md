@@ -13,50 +13,6 @@
 💬 Ask me about **Backend, Coding, Critical thinking**  
 📫 Reach me at: **aishwaryaaditya2@gmail.com**  
 
-## 👾 SECURITY CLEARANCE: LEVEL 5
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
-        <p align="left">
-          <pre>
-$ whoami
-> Aditya Aishwarya
-
-$ cat /etc/profile
-> Full Stack Developer & Security Specialist
-
-$ ls -la ~/skills
-> drwxr-xr-x C++
-> drwxr-xr-x Java
-> drwxr-xr-x Python
-> drwxr-xr-x Linux/Ubuntu
-> drwxr-xr-x HTML/CSS/JS
-> drwxr-xr-x Tailwind CSS
-> drwxr-xr-x PHP
-
-$ uptime
-> System online since 2023
-> Current status: Designing the future
-
-$ ssh -p 443 access@adityaaishwarya.vercel.app
-> Connection established...
-          </pre>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 𝗧𝗘𝗖𝗛 𝗔𝗥𝗦𝗘𝗡𝗔𝗟
 
 <div align="center">
   <table>
@@ -102,17 +58,6 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1286&layout=compact&theme=github_dark&hide_border=true" width="450"/>
-</div>
-
-## 📂 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-
-<div align="center">
-  <a href="https://github.com/Aditya1286/resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1286&repo=resume&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Aditya1286/login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1286&repo=login&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
-  </a>
 </div>
 
 ## ⚙️ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗧𝗢𝗢𝗟𝗦
