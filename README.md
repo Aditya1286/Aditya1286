@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://assets.grok.com/users/9ee513c0-c21b-4f75-8c64-d61a31d1054f/generated/1b6f67e6-d7c9-4feb-bd83-3071ae0a2465/image.jpg">
+</div>
+<div align="center">
   <h3>Software Developer & Problem Solver</h3>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working on <strong>Akademix</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning <strong>MERN Stack</strong> and <strong>DSA</strong>&nbsp;✔</p>
@@ -34,7 +37,7 @@
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
-    <img src="https://i.ibb.co/5Xgh5nKP/image.png"/>
+    <img src="https://i.ibb.co/5Xgh5nKP/image.png" alt="image" border="0"/>
   </td>
 </table>
 <div align="center">
