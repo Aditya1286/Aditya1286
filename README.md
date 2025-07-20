@@ -1,15 +1,12 @@
-<div align="center">
-  <img src="https://assets.grok.com/users/9ee513c0-c21b-4f75-8c64-d61a31d1054f/generated/1b6f67e6-d7c9-4feb-bd83-3071ae0a2465/image.jpg">
-</div>
+
 <div align="center">
   <h3>Software Developer & Problem Solver</h3>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working on <strong>Akademix</strong>&nbsp;✔</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working on <strong>Samhit</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning <strong>MERN Stack</strong> and <strong>DSA</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
   📌 <a href="https://adityaaishwarya.vercel.app">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
   💻 <a href="https://github.com/Aditya1286">GitHub Profile</a>&nbsp;&nbsp;&nbsp;<br/>
   📧 <a href="mailto:aishwaryaaditya2@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-  🏆 <a href="https://leetcode.com/u/aishwaryaaditya2/">LeetCode Profile</a>&nbsp;&nbsp;&nbsp;<br />
   
 </div><br /><br />
 <table>
