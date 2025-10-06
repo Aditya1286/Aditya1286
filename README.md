@@ -38,5 +38,5 @@
   </td>
 </table>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya1286&label=Profile%20Views&color=00D9F7&style=flat" alt="visitor badge"/>
+  <img src="https://camo.githubusercontent.com/5fbdd47f44d00b3ba7bfc202359b1a7873f5d8c9b3fc460827cba803c12a3e4a/68747470733a2f2f692e6962622e636f2f35586768356e4b502f696d6167652e706e67" alt="visitor badge"/>
 </div>
