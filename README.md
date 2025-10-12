@@ -34,7 +34,7 @@
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
-    <img src="https://i.ibb.co/5Xgh5nKP/image.png" alt="image" border="0"/>
+    <img src="https://api.imghippo.com/files/jlkq5880CS.png" alt="image" border="0"/>
   </td>
 </table>
 
